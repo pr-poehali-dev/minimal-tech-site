@@ -116,8 +116,8 @@ const Index = () => {
             <div>
               <h3 className="text-lg font-medium mb-2">Контакты</h3>
               <p className="text-sm text-muted-foreground">
-                Телефон: +7 (800) 123-45-67<br />
-                Email: info@technomir.ru
+                Телефон: +7 (484) 221-17-44<br />
+                Email: zakupka@i-t-pro.ru
               </p>
             </div>
             <div>
