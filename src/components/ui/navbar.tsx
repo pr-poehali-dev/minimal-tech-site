@@ -8,8 +8,10 @@ const Navbar = () => {
     <header className="w-full border-b">
       <div className="container flex h-16 items-center justify-between px-4 md:px-6">
         <Link to="/" className="flex items-center gap-2 font-bold text-xl">
+
           <Icon name="Monitor" className="h-6 w-6" />
-          <span>ТехноМир</span>
+          <span>АЙТИ ПРО</span>
+
         </Link>
         <nav className="hidden md:flex gap-6">
           <Link to="/" className="text-sm font-medium hover:underline">
